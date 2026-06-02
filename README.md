@@ -1,6 +1,6 @@
 <!-- Intro -->
 <p style="margin: 15px;" align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?duration=2500&pause=1000&color=FFFFFF&color2=FFFFFF&color3=FFFFFF&color4=FFFFFF&center=true&vCenter=true&lines=Bienvenue+sur+mon+profil+!+👋;Wydrax%2C+apprenti+développeur+web+%F0%9F%9A%80">
+    <img src="https://readme-typing-svg.herokuapp.com?duration=2500&pause=1000&color=FFFFFF&color2=FFFFFF&color3=FFFFFF&color4=FFFFFF&center=true&vCenter=true&lines=Bienvenue+sur+mon+profil+!+👋;Steve%2C+apprenti+développeur+web+%F0%9F%9A%80">
 </p>
 
 
