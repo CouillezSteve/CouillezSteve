@@ -5,11 +5,18 @@
 
 <p align="center"><i>Apprenti développeur web 🚀</i></p>
 
-###
+<!-- Séparateur animé -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="100%" alt="ligne" />
+</p>
 
 <h2 align="left">À propos de moi</h2>
 
+<img align="right" height="155" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" alt="coding" />
+
 <p align="left">✨ Je développe des sites web avec passion.<br>📚 J'apprends actuellement pour améliorer mes compétences en JavaScript.<br>🎯 Mon objectif : décrocher le titre Développeur Web &amp; Web Mobile.<br>🎲 Fun fact : J'adore explorer de nouvelles technologies !</p>
+
+<br clear="right" />
 
 ###
 
@@ -42,7 +49,10 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CouillezSteve&layout=compact&hide_border=true&theme=tokyonight" alt="Langages les plus utilisés" />
 </div>
 
-<br>
+<!-- Séparateur animé -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="100%" alt="ligne" />
+</p>
 
 <!-- Serpent qui mange le graphe de contributions -->
 <picture>
