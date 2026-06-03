@@ -31,7 +31,7 @@
 
 <h2 align="left">Mes projets</h2>
 
-- 🌐 **CV / Portfolio** — mon CV en ligne, codé à la main → [couillezsteve.github.io](https://couillezsteve.github.io)
+- 🌐 **CV / Portfolio** — mon CV en ligne → [couillezsteve.github.io](https://couillezsteve.github.io)
 - 🎮 **Loading Screen FiveM** — écran de chargement animé (HTML / CSS / JS) → [Démo](https://couillezsteve.github.io/fivem-loadingscreen/) · [Code](https://github.com/CouillezSteve/couillezsteve.github.io/tree/main/fivem-loadingscreen)
 - 🛠️ **GMC Informatique** — site vitrine pour une entreprise d'aide informatique → [Voir le site](https://ivory-caribou-557162.hostingersite.com/)
 
