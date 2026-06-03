@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left">✨ Je développe des sites web avec passion.<br>📚 J'apprends actuellement pour améliorer mes compétences en JavaScript.<br>🎯 Mon objectif : Créer des sites plus interactifs et réactifs.<br>🎲 Fun fact : J'adore explorer de nouvelles technologies !</p>
+<p align="left">✨ Je développe des sites web avec passion.<br>📚 J'apprends actuellement pour améliorer mes compétences en JavaScript.<br>🎯 Mon objectif : décrocher le titre Développeur Web &amp; Web Mobile.<br>🎲 Fun fact : J'adore explorer de nouvelles technologies !</p>
 
 ###
 
@@ -29,11 +29,20 @@
 
 ###
 
-<h3 align="left">🌐 Mon CV en ligne :</h3>
+<h2 align="left">Mes projets</h2>
 
-<p align="left">
-  <a href="https://couillezsteve.github.io" target="_blank">couillezsteve.github.io</a>
-</p>
+- 🌐 **CV / Portfolio** — mon CV en ligne, codé à la main → [couillezsteve.github.io](https://couillezsteve.github.io)
+- 🎮 **Loading Screen FiveM** — écran de chargement animé (HTML / CSS / JS) → [Démo](https://couillezsteve.github.io/fivem-loadingscreen/) · [Code](https://github.com/CouillezSteve/couillezsteve.github.io/tree/main/fivem-loadingscreen)
+- 🛠️ **GMC Informatique** — site vitrine pour une entreprise d'aide informatique → [Voir le site](https://ivory-caribou-557162.hostingersite.com/)
+
+###
+
+<h2 align="left">Mes statistiques</h2>
+
+<div align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=CouillezSteve&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" alt="Statistiques GitHub de Steve" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CouillezSteve&layout=compact&hide_border=true&theme=tokyonight" alt="Langages les plus utilisés" />
+</div>
 
 <br>
 
