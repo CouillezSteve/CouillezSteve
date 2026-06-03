@@ -1,21 +1,19 @@
-<!-- Intro -->
-<p style="margin: 15px;" align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&lines=Bienvenue+sur+mon+profil+!+👋;Steve%2C+apprenti+développeur+web+%F0%9F%9A%80">
+<!-- ═══════════ EN-TÊTE ═══════════ -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=46&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&height=75&lines=Salut+!+Moi+c'est+Steve+%F0%9F%91%8B" alt="Salut ! Moi c'est Steve" />
 </p>
+
+<p align="center"><i>Apprenti développeur web 🚀</i></p>
 
 ###
 
 <h2 align="left">À propos de moi</h2>
-
-###
 
 <p align="left">✨ Je développe des sites web avec passion.<br>📚 J'apprends actuellement pour améliorer mes compétences en JavaScript.<br>🎯 Mon objectif : décrocher le titre Développeur Web &amp; Web Mobile.<br>🎲 Fun fact : J'adore explorer de nouvelles technologies !</p>
 
 ###
 
 <h2 align="left">Je code avec</h2>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
@@ -31,7 +29,7 @@
 
 <h2 align="left">Mes projets</h2>
 
-- 🌐 **CV / Portfolio** — mon CV en ligne → [couillezsteve.github.io](https://couillezsteve.github.io)
+- 🌐 **CV / Portfolio** — mon CV en ligne, codé à la main → [couillezsteve.github.io](https://couillezsteve.github.io)
 - 🎮 **Loading Screen FiveM** — écran de chargement animé (HTML / CSS / JS) → [Démo](https://couillezsteve.github.io/fivem-loadingscreen/) · [Code](https://github.com/CouillezSteve/couillezsteve.github.io/tree/main/fivem-loadingscreen)
 - 🛠️ **GMC Informatique** — site vitrine pour une entreprise d'aide informatique → [Voir le site](https://ivory-caribou-557162.hostingersite.com/)
 
