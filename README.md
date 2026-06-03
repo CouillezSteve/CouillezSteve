@@ -5,10 +5,7 @@
 
 <p align="center"><i>Apprenti développeur web 🚀</i></p>
 
-<!-- Séparateur animé -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="100%" alt="ligne" />
-</p>
+###
 
 <h2 align="left">À propos de moi</h2>
 
@@ -23,13 +20,13 @@
 <h2 align="left">Je code avec</h2>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" height="55" alt="JavaScript" />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5" />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3" />
+  <img width="14" />
+  <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" height="55" alt="Bootstrap" />
 </div>
 
 ###
@@ -49,10 +46,7 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CouillezSteve&layout=compact&hide_border=true&theme=tokyonight" alt="Langages les plus utilisés" />
 </div>
 
-<!-- Séparateur animé -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="100%" alt="ligne" />
-</p>
+<br>
 
 <!-- Serpent qui mange le graphe de contributions -->
 <picture>
