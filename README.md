@@ -1,8 +1,7 @@
 <!-- Intro -->
 <p style="margin: 15px;" align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?duration=2500&pause=1000&color=FFFFFF&color2=FFFFFF&color3=FFFFFF&color4=FFFFFF&center=true&vCenter=true&lines=Bienvenue+sur+mon+profil+!+👋;Steve%2C+apprenti+développeur+web+%F0%9F%9A%80">
+    <img src="https://readme-typing-svg.herokuapp.com?duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&lines=Bienvenue+sur+mon+profil+!+👋;Steve%2C+apprenti+développeur+web+%F0%9F%9A%80">
 </p>
-
 
 ###
 
@@ -19,7 +18,7 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
   <img width="12" />
@@ -28,11 +27,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
 </div>
 
-<h3 align="left">Soutenir mon travail :</h3>
-<p><a href="https://buymeacoffee.com/wydrax"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Wydrax" /></a></p><br><br>
+###
 
+<h3 align="left">🌐 Mon CV en ligne :</h3>
+
+<p align="left">
+  <a href="https://couillezsteve.github.io" target="_blank">couillezsteve.github.io</a>
+</p>
+
+<br>
+
+<!-- Serpent qui mange le graphe de contributions -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wydrax/wydrax/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wydrax/wydrax/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/wydrax/wydrax/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CouillezSteve/CouillezSteve/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CouillezSteve/CouillezSteve/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/CouillezSteve/CouillezSteve/output/github-snake.svg" />
 </picture>
