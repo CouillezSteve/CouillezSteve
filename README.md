@@ -22,9 +22,9 @@
 <div align="left">
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" height="55" alt="JavaScript" />
   <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5" />
+  <img src="https://raw.githubusercontent.com/CouillezSteve/CouillezSteve/main/html5.gif" height="55" alt="HTML5" />
   <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3" />
+  <img src="https://raw.githubusercontent.com/CouillezSteve/CouillezSteve/main/css3.gif" height="55" alt="CSS3" />
   <img width="14" />
   <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" height="55" alt="Bootstrap" />
 </div>
