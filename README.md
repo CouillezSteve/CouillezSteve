@@ -11,7 +11,7 @@
 
 ---
 
-## À propos de moi
+## 👨‍💻 À propos de moi
 
 ✨ Je conçois des interfaces dynamiques en **React** et des API REST robustes avec **Node.js / Express**.  
 
@@ -21,7 +21,7 @@
 
 ---
 
-## Stack Technique
+## 🛠️ Stack Technique
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,react,vite,nodejs,express,docker,git,github,postman,figma&theme=dark" alt="Stack technique" />
@@ -29,7 +29,10 @@
 
 ---
 
-## Projets Phares
+## 🚀 Projets Phares
+
+- 🧑‍💻 **[Portfolio Personnel](https://couillezsteve.github.io)** — Mon CV en ligne interactif regroupant mes réalisations.  
+  `React` `Vite`
 
 - 🐳 **[TaskFlow](https://github.com/CouillezSteve/taskflow)** — Projet fil rouge orienté DevOps avec mise en place d'une CI/CD.  
   `Node.js` `Express` `Docker` `PostgreSQL` `GitHub Actions`
@@ -37,18 +40,12 @@
 - 🎮 **[FiveM Loading Screen](https://github.com/CouillezSteve/couillezsteve.github.io/tree/main/fivem-loadingscreen)** ([Démo live](https://couillezsteve.github.io/fivem-loadingscreen/)) — Écran de chargement animé et immersif pour serveur de jeu.  
   `HTML` `CSS` `JavaScript`
 
-- 🛠️ **[GMC Informatique](https://ivory-caribou-557162.hostingersite.com/)** — Site vitrine moderne pour une entreprise d'assistance informatique.  
-  `HTML` `CSS` `Bootstrap`
-
-- 🧑‍💻 **[Portfolio Personnel](https://couillezsteve.github.io)** — Mon CV en ligne interactif regroupant mes réalisations.  
-  `React` `Vite`
-
 ---
 
 ## Me contacter
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/steve-couillez-91457b308/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;<a href="https://couillezsteve.github.io"><img src="https://img.shields.io/badge/Portfolio-4472C4?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/steve-couillez-91457b308/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;<a href="https://github.com/CouillezSteve"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;&nbsp;<a href="https://couillezsteve.github.io"><img src="https://img.shields.io/badge/Portfolio-%234472C4.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 <br>
