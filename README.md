@@ -13,19 +13,11 @@
 
 ## 👨‍💻 À propos de moi
 
-<table width="100%" style="border: none;">
-  <tr>
-    <td width="70%" style="border: none; vertical-align: middle;">
-      ✨ Je conçois des interfaces dynamiques en <b>React</b> et des API REST robustes avec <b>Node.js / Express</b>.<br><br>
-      📚 <b>Formation :</b> Titre Professionnel DWWM (Bac+2) chez <i>ForEach Academy</i>.<br>
-      🎯 <b>Objectif :</b> Décrocher mon titre pro, puis enchaîner sur une alternance ou un premier poste.<br>
-      🎲 <b>Fun fact :</b> J'ai attrapé le virus du code en configurant un serveur privé de jeu vidéo !
-    </td>
-    <td width="30%" align="center" style="border: none; vertical-align: middle;">
-      <img height="130" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" alt="coding" />
-    </td>
-  </tr>
-</table>
+✨ Je conçois des interfaces dynamiques en **React** et des API REST robustes avec **Node.js / Express**.  
+
+📚 **Formation :** Titre Professionnel DWWM (Bac+2) chez *ForEach Academy*.  
+🎯 **Objectif :** Décrocher mon titre pro, puis enchaîner sur une alternance ou un premier poste.  
+🎲 **Fun fact :** J'ai attrapé le virus du code en configurant un serveur privé de jeu vidéo !
 
 ---
 
