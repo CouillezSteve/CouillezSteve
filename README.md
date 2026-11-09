@@ -11,7 +11,7 @@
 
 ---
 
-## 👨‍💻 À propos de moi
+## À propos de moi
 
 ✨ Je conçois des interfaces dynamiques en **React** et des API REST robustes avec **Node.js / Express**.  
 
@@ -21,7 +21,7 @@
 
 ---
 
-## 🛠️ Stack Technique
+## Stack Technique
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,react,vite,nodejs,express,docker,git,github,postman,figma&theme=dark" alt="Stack technique" />
@@ -29,7 +29,7 @@
 
 ---
 
-## 🚀 Projets Phares
+## Projets Phares
 
 - 🐳 **[TaskFlow](https://github.com/CouillezSteve/taskflow)** — Projet fil rouge orienté DevOps avec mise en place d'une CI/CD.  
   `Node.js` `Express` `Docker` `PostgreSQL` `GitHub Actions`
@@ -42,19 +42,6 @@
 
 - 🧑‍💻 **[Portfolio Personnel](https://couillezsteve.github.io)** — Mon CV en ligne interactif regroupant mes réalisations.  
   `React` `Vite`
-
----
-
-## Statistiques GitHub
-
-<p align="left">
-  <a href="https://github.com/CouillezSteve/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=CouillezSteve&show_icons=true&theme=vue-dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/CouillezSteve/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CouillezSteve&layout=compact&theme=vue-dark&hide_border=true" alt="Top Langs" />
-  </a>
-</p>
 
 ---
 
