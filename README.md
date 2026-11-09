@@ -56,8 +56,12 @@
 ## Statistiques GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=CouillezSteve&show_icons=true&theme=vue-dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CouillezSteve&layout=compact&theme=vue-dark&hide_border=true" alt="Top Langs" />
+  <a href="https://github.com/CouillezSteve/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=CouillezSteve&show_icons=true&theme=vue-dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/CouillezSteve/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CouillezSteve&layout=compact&theme=vue-dark&hide_border=true" alt="Top Langs" />
+  </a>
 </p>
 
 ---
