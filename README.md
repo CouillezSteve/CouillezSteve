@@ -1,6 +1,6 @@
 <!-- ═══════════ EN-TÊTE ═══════════ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=42&pause=1000&color=4472C4&center=true&vCenter=true&width=700&height=70&lines=Salut+!+Moi+c'est+Steve+%F0%9F%91%8B;Développeur+Web+&+Web+Mobile" alt="Salut ! Moi c'est Steve" />
+  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=42&pause=1000&color=4472C4&center=true&vCenter=true&width=700&height=70&lines=Salut+!+Moi+c%27est+Steve+%F0%9F%91%8B;D%C3%A9veloppeur+Web+%26+Web+Mobile" alt="Salut ! Moi c'est Steve" />
 </p>
 
 <p align="center">
